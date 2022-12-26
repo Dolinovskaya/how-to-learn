@@ -193,6 +193,8 @@
   font-weight: 600;
   text-align: center;
   margin: 0 auto 70px;
+  position: relative;
+  z-index: 1;
 }
 
 .feynman__subtitle {
